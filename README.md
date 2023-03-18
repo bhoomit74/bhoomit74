@@ -27,9 +27,13 @@
 <a href="https://www.linkedin.com/in/bhoomit-patel-437b8a172/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-### ✍️ Blogs (Just started)
+### ✍️ Blogs
 
 - 📖 Read <a href="https://bhoomit.hashnode.dev/">here</a>
+
+### 🛠️ Flutter packages
+
+- <a href="https://pub.dev/packages/bip39_multi_language/">BIP39 multi language</a>
 
 
 ### ❤️‍🔥 My states
