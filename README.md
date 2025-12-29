@@ -3,11 +3,11 @@
 
 ## 👩‍💻 about me
 
-- 💻 Building mobile applications using flutter and native android.
-- 🌱 Working on improving my development skills.
-- 👯 Helping students, reach me out on <a href="https://www.linkedin.com/in/bhoomit-patel-437b8a172/">LinkedIn</a>.
-- 💬 Ask me about tech related stuffs. 
-- ⚡ Fun fact: I love to code💕.
+- Flutter expert building scalable MVPs and business apps
+6+ years of experience shipping apps used by real customers
+- Worked across finance, healthcare, crypto, and operations
+- Strong in architecture, payments, real-time systems, and offline-first apps
+- Focused on long-term maintainability, not just UI
 
 ### 🛠️ Languages and tools
 
